@@ -1,1 +1,2 @@
-export const ADD_KID = 'ADD_KID';
+export const ADD_KID = 'addKid';
+export const REMOVE_KID ='removeKid';
